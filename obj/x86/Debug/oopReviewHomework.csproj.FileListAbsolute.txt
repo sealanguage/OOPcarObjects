@@ -1,0 +1,6 @@
+/Users/owner1/Documents/docs/careerdevs/20-09september/bulldozer/oopReviewHomework/bin/Debug/oopReviewHomework.exe
+/Users/owner1/Documents/docs/careerdevs/20-09september/bulldozer/oopReviewHomework/bin/Debug/oopReviewHomework.pdb
+/Users/owner1/Documents/docs/careerdevs/20-09september/bulldozer/oopReviewHomework/obj/x86/Debug/oopReviewHomework.csprojAssemblyReference.cache
+/Users/owner1/Documents/docs/careerdevs/20-09september/bulldozer/oopReviewHomework/obj/x86/Debug/oopReviewHomework.csproj.CoreCompileInputs.cache
+/Users/owner1/Documents/docs/careerdevs/20-09september/bulldozer/oopReviewHomework/obj/x86/Debug/oopReviewHomework.exe
+/Users/owner1/Documents/docs/careerdevs/20-09september/bulldozer/oopReviewHomework/obj/x86/Debug/oopReviewHomework.pdb
