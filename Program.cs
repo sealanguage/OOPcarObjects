@@ -8,7 +8,7 @@ namespace oopReviewHomework
     {
         public static void Main(string[] args)
         {
-            var Car1 = new Car"red", "Honda")
+            var Car1 = new Car"red", "Honda");
         }
     }
 
@@ -30,12 +30,14 @@ namespace oopReviewHomework
         {
 
         }
-        public string NumberOfSeats { get; set; }
+        public string NumberOfSeats { get; set; };
     }
 }
 
 
 
+//  create a car class
+//  instantiate a Car1 object
 
 //  make 3 constructors
 //  1 assign number of seats
@@ -43,6 +45,6 @@ namespace oopReviewHomework
 //  3 assign nuber of seats, manufacturer and color
 
 
-    //  create SaloonCar with 2 seats
+    //  create SaloonCar object with 2 seats
     //  create SaloonCar object with 3 seats manufacturer Nissan
     //  create SaloonCar object with 4 seats manufacturer Ford purple
