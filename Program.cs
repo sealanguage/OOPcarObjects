@@ -8,7 +8,9 @@ namespace oopReviewHomework
     {
         public static void Main(string[] args)
         {
-            var Car1 = new Car"red", "Honda");
+            var Car1 = new Car("silver", "Buick");
+            var saloonCar1 = new SaloonCar();
+            Console.WriteLine("Car1 is " + car1.color + " Made by " + car1.manufacturer);
         }
     }
 
@@ -26,9 +28,9 @@ namespace oopReviewHomework
 
     public class SaloonCar : Car
     {
-        public SaloonCar ()
+        public SaloonCar (string NumberOfSeats)
         {
-
+            this.NumberOfSeats = NumberOfSeats;
         }
         public string NumberOfSeats { get; set; };
     }
