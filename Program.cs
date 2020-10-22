@@ -9,8 +9,11 @@ namespace oopReviewHomework
         public static void Main(string[] args)
         {
             var Car1 = new Car("silver", "Buick");
-            var saloonCar1 = new SaloonCar();
-            Console.WriteLine("Car1 is " + car1.color + " Made by " + car1.manufacturer);
+            var Car2 = new Car("Teal", "Tata");
+            var SaloonCar1 = new SaloonCar("Orange", "VW", 4);
+            Console.WriteLine("Car1 is " + Car1.color + " Made by " + Car1.manufacturer);
+            Console.WriteLine("Car2 is " + Car2.color + " Made by " + Car2.manufacturer);
+            Console.WriteLine("SaloonCar1 hass " + SaloonCar1.NumberOfSeat + SaloonCar1.color);
         }
     }
 
